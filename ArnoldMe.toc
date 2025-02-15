@@ -1,0 +1,31 @@
+## Interface: 110007
+## Title: ArnoldMe
+## Author: Anderya
+## Version: 0.0.1
+## IconTexture: Interface\Icons\inv_offhand_1h_ardenweald_d_01.blp
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Put da cookie down!
+
+ArnoldMe.lua
+
+Sound/Astalavista.ogg
+Sound/Bastard.ogg
+Sound/Bleeds.ogg
+Sound/ComeWithMe.ogg
+Sound/Crush.ogg
+Sound/DontKnow.ogg
+Sound/Fired.ogg
+Sound/GetToTheChoppa.ogg
+Sound/IllBeBack.ogg
+Sound/Laugh.ogg
+Sound/NoProblemo.ogg
+Sound/RealQuaid.ogg
+Sound/SkyNet.ogg
+Sound/Spine.ogg
+Sound/StopWhining.ogg
+Sound/SubZero.ogg
+Sound/Trees.ogg
+Sound/Vacation.ogg
+Sound/Victor.ogg
+Sound/Wizard.ogg
